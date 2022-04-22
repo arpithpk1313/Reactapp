@@ -9,7 +9,7 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
+SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://grand-kataifi-49465c.netlify.app/)
 
 
 
